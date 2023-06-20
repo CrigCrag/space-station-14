@@ -53,6 +53,8 @@
         Slash: 0.5
         Piercing: 0.6
         Heat: 0.5
+  - type: ExplosionResistance
+    damageCoefficient: 0.85
   - type: GroupExamine
 
 - type: entity
